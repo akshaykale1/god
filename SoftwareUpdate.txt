@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
